@@ -1,5 +1,5 @@
-That's great, Rakesh! 🎉 You've published your stopwatch project on GitHub Pages here:
-# ⏱️ Stopwatch Project
+Hey my dear friend, This is Rakesh chowhan! 🎉 I've published my stopwatch project on GitHub Pages here:
+⏱️ Stopwatch Project
 
 🚀 Live Demo: [Click here to try the Stopwatch](https://rakeshchowhan1.github.io/Stopwatch-/)
 
